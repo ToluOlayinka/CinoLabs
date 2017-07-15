@@ -1,0 +1,18 @@
+<svg width="102" height="109" viewBox="0 0 102 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>icon_down</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(274 -287)" figma:type="canvas">
+<g id="icon_down" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="regular-polygon">
+<use xlink:href="#path0_fill" transform="translate(-281.611 286)" fill="#FFCC33" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path1_fill" transform="translate(-244.624 316.5)" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 54.6568 2.10508C 57.0511 0.793615 59.9489 0.793615 62.3432 2.10508L 105.006 25.4731C 107.569 26.8771 109.162 29.567 109.162 32.4895L 109.162 78.5105C 109.162 81.433 107.569 84.1229 105.006 85.5269L 62.3432 108.895C 59.9489 110.206 57.0511 110.206 54.6568 108.895L 11.9943 85.5269C 9.43115 84.1229 7.83751 81.433 7.83751 78.5105L 7.83751 32.4895C 7.83751 29.567 9.43115 26.8771 11.9943 25.4731L 54.6568 2.10508Z"/>
+<path id="path1_fill" d="M 41.2097 27.273L 24.0408 44.442L 24.0408 2C 24.0408 0.896 23.1448 0 22.0408 0C 20.9368 0 20.0408 0.896 20.0408 2L 20.0408 43.9L 3.41375 27.273C 2.63375 26.492 1.36575 26.492 0.58575 27.273C -0.19525 28.054 -0.19525 29.32 0.58575 30.101L 20.8977 50.413C 21.2877 50.805 21.7998 51 22.3118 51C 22.8238 51 23.3358 50.805 23.7258 50.414L 44.0378 30.102C 44.8188 29.321 44.8188 28.055 44.0378 27.274C 43.2578 26.492 41.9907 26.492 41.2097 27.273Z"/>
+</defs>
+</svg>

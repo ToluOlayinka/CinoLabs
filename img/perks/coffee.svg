@@ -1,0 +1,16 @@
+<svg width="80" height="76" viewBox="0 0 80 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>coffee</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(41 28)" figma:type="canvas">
+<g id="coffee" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-41 -27.05)" fill="#FFCC33" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 78.3 54.1C 78.3 64.1 68.3 64.1 68.3 64.1L 55.8 64.1C 51.9 69.9 47.1 74.1 41.3 74.1L 25.6 74.1C 8.5 74.1 -3.05176e-06 31.4 -3.05176e-06 31.4C -3.05176e-06 28.6 2.8 28.6 2.8 28.6L 65.4 28.6C 65.4 28.6 68.2 28.6 68.2 31.4C 68.2 31.4 67.9 33 67.2 35.7L 69.6 35.7C 69.6 35.7 79.6 35.7 79.6 45.7L 78.3 54.1ZM 69.8 41.3L 65.8 41.3C 64.3 46.4 62.1 52.7 59.2 58.4L 68.4 58.4C 70.8 58.4 72.7 56.5 72.7 54.1L 74.1 45.6C 74.1 43.3 72.1 41.3 69.8 41.3ZM 45.8 18.9C 41.8 21.8 45.2 24.2 45.2 24.2C 41.2 24.2 40 18.9 42.9 17.8C 45.8 16.6 44.6 14.3 44.6 14.3C 49.2 16.7 45.8 18.9 45.8 18.9ZM 39.2 14.4C 32.2 19.8 38.2 24.2 38.2 24.2C 31.2 24.2 29.2 14.4 34.2 12.2C 39.2 10 37.2 5.70001 37.2 5.70001C 45.2 10 39.2 14.4 39.2 14.4ZM 29.7 11.4C 19.7 18.5 28.3 24.2 28.3 24.2C 18.3 24.2 15.4 11.4 22.6 8.49999C 29.8 5.69999 26.9 -6.10352e-06 26.9 -6.10352e-06C 38.3 5.69999 29.7 11.4 29.7 11.4Z"/>
+</defs>
+</svg>

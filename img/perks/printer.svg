@@ -1,0 +1,36 @@
+<svg width="65" height="81" viewBox="0 0 65 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>printer</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(524 205)" figma:type="canvas">
+<g id="printer" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-493.032 -132.557)" fill="#FFCC33" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path1_fill" transform="translate(-524 -204.815)" fill="#FFCC33" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-468.516 -179.008)" fill="#FFCC33" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-473.677 -179.008)" fill="#FFCC33" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-478.839 -179.008)" fill="#FFCC33" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path2_fill" transform="translate(-505.935 -198.363)" fill="#FFCC33" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path2_fill" transform="translate(-505.935 -191.912)" fill="#FFCC33" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 2.58065 0L 0 0L 0 2.58065L 2.58065 2.58065L 2.58065 0Z"/>
+<path id="path1_fill" d="M 60.6452 19.3548L 54.1935 19.3548L 54.1935 0L 10.3226 0L 10.3226 19.3548L 3.87097 19.3548C 1.67742 19.3548 0 21.0323 0 23.2258L 0 51.6129C 0 53.8064 1.67742 55.4839 3.87097 55.4839L 10.3226 55.4839L 10.3226 61.9355L 30.9677 61.9355L 30.9677 67.0968L 25.8065 67.0968L 25.8065 72.2581L 9.03226 72.2581L 9.03226 74.8387L 25.8065 74.8387L 25.8065 80L 38.7097 80L 38.7097 74.8387L 55.4839 74.8387L 55.4839 72.2581L 38.7097 72.2581L 38.7097 67.0968L 33.5484 67.0968L 33.5484 61.9355L 54.1935 61.9355L 54.1935 55.4839L 60.6452 55.4839C 62.8387 55.4839 64.5161 53.8064 64.5161 51.6129L 64.5161 23.2258C 64.5161 21.0323 62.8387 19.3548 60.6452 19.3548ZM 36.129 77.4194L 28.3871 77.4194L 28.3871 69.6774L 36.129 69.6774L 36.129 77.4194ZM 12.9032 2.58065L 51.6129 2.58065L 51.6129 19.3548L 12.9032 19.3548L 12.9032 2.58065ZM 51.6129 59.3548L 12.9032 59.3548L 12.9032 49.0323L 51.6129 49.0323L 51.6129 59.3548ZM 61.9355 51.6129C 61.9355 52.3871 61.4194 52.9032 60.6452 52.9032L 54.1935 52.9032L 54.1935 46.4516L 10.3226 46.4516L 10.3226 52.9032L 3.87097 52.9032C 3.09677 52.9032 2.58065 52.3871 2.58065 51.6129L 2.58065 23.2258C 2.58065 22.4516 3.09677 21.9355 3.87097 21.9355L 60.6452 21.9355C 61.4194 21.9355 61.9355 22.4516 61.9355 23.2258L 61.9355 51.6129Z"/>
+<path id="path2_fill" d="M 28.3871 0L 0 0L 0 2.58065L 28.3871 2.58065L 28.3871 0Z"/>
+</defs>
+</svg>
